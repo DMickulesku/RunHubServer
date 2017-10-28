@@ -1,10 +1,8 @@
-
-
 module.exports = {
 
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/runHub'
+    connection: 'postgres://localhost/runhubDB'
   },
 
   // production: {
